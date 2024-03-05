@@ -1,0 +1,38 @@
+{
+  "competitions": [
+    {
+      "id": "1",
+      "name": "Hachathon",
+      "fee": "100",
+      "date": "01/04/2023",
+      "participants": "10",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Fusce malesuada vulputate faucibus. Integer in hendrerit nisi. Praesent a hendrerit urna. In non imperdiet elit, sed molestie odio. Etiam hendrerit nisi auctor, viverra ex ut, tincidunt nisl. Ut vel eleifend neque. Integer in hendrerit nisi. Praesent a hendrerit urna. In non imperdiet elit, sed molestie odio. Etiam hendrerit nisi auctor, viverra ex ut, tincidunt nisl. Ut vel eleifend neque."
+    },
+    {
+      "id": "2",
+      "name": "Meet & greet",
+      "fee": "30",
+      "date": "01/04/2023",
+      "participants": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Fusce malesuada vulputate faucibus. Integer in hendrerit nisi. Praesent a hendrerit urna. In non imperdiet elit, sed molestie odio. Etiam hendrerit nisi auctor, viverra ex ut, tincidunt nisl. Ut vel eleifend neque. Integer in hendrerit nisi. Praesent a hendrerit urna. In non imperdiet elit, sed molestie odio. Etiam hendrerit nisi auctor, viverra ex ut, tincidunt nisl. Ut vel eleifend neque."
+    },
+    {
+      "id": "3f21",
+      "hackthon": "",
+      "description": "wiem",
+      "fees": 0,
+      "date": "2024-03-13",
+      "participants": 0,
+      "name": "Wiem Ben Araar",
+      "fee": "wiem"
+    },
+    {
+      "id": "c441",
+      "name": "Wiem Ben Araar",
+      "description": "h",
+      "fee": "wiem",
+      "date": "",
+      "participants": "10"
+    }
+  ]
+}
